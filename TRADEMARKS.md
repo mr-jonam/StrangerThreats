@@ -14,4 +14,3 @@ If you publish a substantially modified version, use a distinct name and state
 prominently that it is an independent adaptation of StrangerThreats. Requests to
 use the name or branding beyond attribution should be sent to the maintainer
 through the project's GitHub profile.
-

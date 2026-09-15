@@ -51,4 +51,3 @@ qualified in the relevant jurisdiction.
 Linked tools, standards, trademarks, quotations, and other third-party material
 remain subject to their own terms. This license applies only to material for
 which this repository's copyright holder can grant rights.
-
