@@ -83,7 +83,16 @@ security concerns, follow [SECURITY.md](SECURITY.md).
 If this hub helps your work, sponsorship options are available through GitHub's
 Sponsor button.
 
-## License
+## License and attribution
 
-Released under the [MIT License](LICENSE). External resources and linked tools
-retain their own licenses and terms.
+Copyright © 2026 **mr-jonam**. The original StrangerThreats material is licensed
+under [CC BY-NC-SA 4.0](LICENSE): you may fork, share, and improve it for
+non-commercial purposes, provided that you retain attribution, link the original
+project and license, mark changes, and license adaptations under the same terms.
+
+Read [LICENSING.md](LICENSING.md) for the required attribution format and
+[TRADEMARKS.md](TRADEMARKS.md) before using the project name or presenting a fork.
+Commercial use, a separate commercial licence, and permission requests should be
+discussed with the copyright holder through the project's GitHub profile.
+
+External resources and linked tools retain their own licenses and terms.

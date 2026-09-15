@@ -28,5 +28,7 @@ YYYY-MM-DD` near the references.
 ## Pull requests
 
 Use a focused title and explain the problem, evidence, change, and validation.
-By contributing, you agree that your contribution is licensed under this
-repository's MIT License.
+By contributing, you retain your copyright but license the contribution under
+the repository's [CC BY-NC-SA 4.0](LICENSE) terms. This lets the maintainers and
+future non-commercial forks reuse it under the same attribution and share-alike
+conditions. Do not submit material you cannot license this way.
