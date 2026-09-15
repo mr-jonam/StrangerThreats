@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If StrangerThreats informs your work, please cite this repository."
+title: "StrangerThreats"
+abstract: "A vendor-neutral cybersecurity knowledge hub for defensive security, threat analysis, reporting, and learning paths."
+authors:
+  - name: "mr-jonam"
+type: "generic"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/mr-jonam/StrangerThreats"
+url: "https://github.com/mr-jonam/StrangerThreats"
+version: "0.1.0"
+date-released: 2026-09-15

@@ -7,10 +7,14 @@ $requiredPaths = @(
     'CONTRIBUTING.md',
     'SECURITY.md',
     'LICENSING.md',
+    'LICENSE-DECISION.md',
     'NOTICE',
     'TRADEMARKS.md',
+    'CITATION.cff',
     '.github/FUNDING.yml',
+    '.provenance/manifest.json',
     'docs/foundations.md',
+    'docs/sharing-and-discoverability.md',
     'tools/README.md',
     'templates/threat-analysis-report.md'
 )

@@ -19,6 +19,10 @@ defensive, legal, source-backed, and useful to learners and practitioners.
 - `templates/`: reusable analysis and reporting templates.
 - `reports/`: sanitized, publishable community reports.
 - `.github/`: funding, contribution templates, and CI.
+- `.provenance/manifest.json`: public project identifier and integrity metadata;
+  it never contains private keys or plaintext identity data.
+- `CITATION.cff`: citation metadata; `LICENSE-DECISION.md`: licence scope and
+  rationale.
 
 ## Commands
 

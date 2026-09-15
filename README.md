@@ -8,7 +8,8 @@ and grow a cybersecurity career.**
 [Start learning](docs/foundations.md) ·
 [Analyze a threat](docs/threat-analysis.md) ·
 [Write a report](templates/threat-analysis-report.md) ·
-[Explore tools](tools/README.md)
+[Explore tools](tools/README.md) ·
+[Find & share](docs/sharing-and-discoverability.md)
 
 </div>
 
@@ -19,9 +20,12 @@ and grow a cybersecurity career.**
 
 ## What this repository is
 
-StrangerThreats is a vendor-neutral cybersecurity knowledge hub. It connects
-concepts, repeatable workflows, primary sources, report templates, certification
-paths, and links to specialized tools without trying to duplicate them.
+StrangerThreats is a vendor-neutral cybersecurity knowledge hub for threat
+intelligence and threat analysis, incident response, defensive security, SOC,
+application security, cloud security, reporting, and cybersecurity career paths.
+It connects concepts, repeatable workflows, primary sources, report templates,
+certification paths, and links to specialized tools without trying to duplicate
+them.
 
 The goal is simple: turn scattered information into decisions you can explain,
 evidence you can preserve, and improvements you can track.
@@ -61,7 +65,8 @@ StrangerThreats/
 ├── templates/    Reusable analysis, incident, and assessment templates
 ├── reports/      Sanitized community reports
 ├── scripts/      Lightweight repository validation
-└── .github/      CI, funding, and contribution configuration
+├── .github/      CI, funding, and contribution configuration
+└── .provenance/  Public, privacy-preserving project provenance manifest
 ```
 
 ## Quality bar
@@ -96,3 +101,6 @@ Commercial use, a separate commercial licence, and permission requests should be
 discussed with the copyright holder through the project's GitHub profile.
 
 External resources and linked tools retain their own licenses and terms.
+The licence rationale and component boundaries are recorded in
+[LICENSE-DECISION.md](LICENSE-DECISION.md). For academic or professional
+references, use [CITATION.cff](CITATION.cff).
